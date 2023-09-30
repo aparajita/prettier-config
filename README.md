@@ -14,7 +14,7 @@ After installing, update your project's `prettier.config.js` file to import the 
 
 ```js
 module.exports = {
-  ...require('@aparajita/prettier-config')
+  ...require('@aparajita/prettier-config'),
   // your overrides here
 }
 ```
