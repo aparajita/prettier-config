@@ -21,11 +21,11 @@
     "push": "git push --follow-tags origin main"
   },
   "devDependencies": {
-    "commit-and-tag-version": "^10.0.1",
-    "prettier": "^2.7.1"
+    "commit-and-tag-version": "^11.2.3",
+    "prettier": "^3.0.3"
   },
   "peerDependencies": {
-    "prettier": "2.x"
+    "prettier": ">=3.0.0"
   },
   "publishConfig": {
     "access": "public"
