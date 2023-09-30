@@ -6,7 +6,7 @@ module.exports = {
   singleQuote: true,
   quoteProps: 'as-needed',
   jsxSingleQuote: true,
-  trailingComma: 'none',
+  trailingComma: 'all',
   bracketSpacing: true,
   bracketSameLine: false,
   arrowParens: 'always',
@@ -19,5 +19,5 @@ module.exports = {
   vueIndentScriptAndStyle: false,
   endOfLine: 'lf',
   embeddedLanguageFormatting: 'auto',
-  singleAttributePerLine: true
+  singleAttributePerLine: true,
 }
